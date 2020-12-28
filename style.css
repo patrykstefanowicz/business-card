@@ -20,4 +20,51 @@ main {
   background: #f8f8f8;
   width: 624px;
   border-radius: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.person{
+    
+}
+
+.person__picture{
+    margin: 32px;
+}
+
+.person__info{
+    margin-bottom: 24px;
+}
+
+.person__name{
+    margin: 0;
+    font-size: 36px;
+    font-weight: normal;
+}
+
+.person__position{
+    margin: 0;
+    color: #545454;
+    font-style: italic;
+    font-size: 18px;
+}
+
+.person__paragraph--margin{
+    margin-bottom: 16px;
+}
+
+.person__paragraph{
+    font-size: 16px;
+    width: 380px;
+    
+}
+
+.person__link{
+    text-decoration: none;
+    color: #E20613;
+}
+
+.special{
+    font-weight: normal;
+    color: #ED6D05;
 }
